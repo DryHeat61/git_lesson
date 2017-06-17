@@ -7,3 +7,6 @@ This is a third change to this file,
 Git is a version control system that prevents us from having the "final doc" problem.
 
 This is a commit that I was not aware of, or one that I have forgotten about.
+
+But, I remember now.
+
